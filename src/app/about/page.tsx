@@ -11,6 +11,8 @@ const page = () => {
       className="lg:w-3/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded pt-10"
       alt="hero"
       src={require("../../../public/aboutpic.jpg")}
+      width={250}
+      height={250}
 
     />
     <div className="text-center lg:w-2/3 w-full">
